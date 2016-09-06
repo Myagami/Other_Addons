@@ -1,0 +1,12 @@
+Obj=building
+Name=Norurun_Metro
+Type=cur
+Passengers=19
+Build_Time=2012
+Chance=30
+Dims=1,1,1
+needs_ground=1
+BackImage[0][0][0][0][0][0]=Metro_Norurun.0.0
+BackImage[0][0][0][0][0][0]=Metro_Norurun.0.1
+copyright=M.Yagami
+---------------------

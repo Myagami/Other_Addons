@@ -1,0 +1,31 @@
+#-------------------------------------------------------------------------------
+#　東北第三セクター気動車セット
+#  iichikoさんの九州NDCセットをお借りしております
+#　CopyLeft iichiko/masayoshi
+#-------------------------------------------------------------------------------
+obj=vehicle
+name=YamagataRailway YR-880
+copyright=iichiko/masayoshi
+waytype=track
+engine_type=diesel
+smoke=Diesel
+freight=Passagiere
+speed=95
+gear=142
+payload=119
+cost=1700000
+weight=30
+power=330
+length=7
+RunningCost=49
+sound=2
+intro_year=2003
+intro_month=3
+EmptyImage[S]=NDC-set_kyusyu01.0.0
+EmptyImage[E]=NDC-set_kyusyu01.0.1
+EmptyImage[SE]=NDC-set_kyusyu01.0.2
+EmptyImage[SW]=NDC-set_kyusyu01.0.3
+EmptyImage[N]=NDC-set_kyusyu01.0.4
+EmptyImage[W]=NDC-set_kyusyu01.0.5
+EmptyImage[NW]=NDC-set_kyusyu01.0.6
+EmptyImage[NE]=NDC-set_kyusyu01.0.7

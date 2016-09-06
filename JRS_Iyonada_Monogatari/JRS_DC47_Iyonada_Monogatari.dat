@@ -1,0 +1,60 @@
+#-------------------------------------------------------------------------------
+#　JRS_DC47_Iyonada_Monogatari.dat
+#　JR四国 キハ47形 伊予灘物語
+#
+#　著作権はありません。自由に使ってください。    
+#　CopyLeft 555 / M.Yagami
+#-------------------------------------------------------------------------------
+obj=vehicle
+name=JRS DC_47(IyonadaMonogatari Front)
+copyright=555 / M.Yagami
+waytype=track
+engine_type=diesel
+smoke=Diesel
+freight=Passagiere
+speed=95
+gear=135
+payload=124
+cost=1350000
+weight=36
+power=162
+RunningCost=60
+sound=2
+intro_year=2014
+intro_month=4
+Constraint[Next][0]=JRS DC_47_1000(IyonadaMonogatari Back)
+EmptyImage[S]=JRS_DC47_Iyonada_Monogatari.0.0
+EmptyImage[E]=JRS_DC47_Iyonada_Monogatari.0.1
+EmptyImage[SE]=JRS_DC47_Iyonada_Monogatari.0.2
+EmptyImage[SW]=JRS_DC47_Iyonada_Monogatari.0.3
+EmptyImage[N]=JRS_DC47_Iyonada_Monogatari.0.4
+EmptyImage[W]=JRS_DC47_Iyonada_Monogatari.0.5
+EmptyImage[NW]=JRS_DC47_Iyonada_Monogatari.0.6
+EmptyImage[NE]=JRS_DC47_Iyonada_Monogatari.0.7
+-------------------------------------------------------------------------------
+obj=vehicle
+name=JRS DC_47_1000(IyonadaMonogatari Back)
+copyright=555 / M.Yagami
+waytype=track
+engine_type=diesel
+smoke=Diesel
+freight=Passagiere
+speed=95
+gear=135
+payload=128
+cost=1350000
+weight=36
+power=162
+RunningCost=60
+intro_year=2014
+intro_month=4
+Constraint[Prev][0]=JRS DC_47(IyonadaMonogatari Front)
+EmptyImage[S]=JRS_DC47_Iyonada_Monogatari.1.0
+EmptyImage[E]=JRS_DC47_Iyonada_Monogatari.1.1
+EmptyImage[SE]=JRS_DC47_Iyonada_Monogatari.1.2
+EmptyImage[SW]=JRS_DC47_Iyonada_Monogatari.1.3
+EmptyImage[N]=JRS_DC47_Iyonada_Monogatari.1.4
+EmptyImage[W]=JRS_DC47_Iyonada_Monogatari.1.5
+EmptyImage[NW]=JRS_DC47_Iyonada_Monogatari.1.6
+EmptyImage[NE]=JRS_DC47_Iyonada_Monogatari.1.7
+-------------------------------------------------------------------------------

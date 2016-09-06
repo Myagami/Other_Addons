@@ -1,0 +1,54 @@
+#-------------------------------------------------------------------------------
+#  Aoimori_703.dat
+#  ê¬Ç¢êXìSìπ 703ån
+#
+#  Ç≤é©óRÇ…Ç®égÇ¢Ç≠ÇæÇ≥Ç¢ÅB
+#  CopyLeft 555 / M.Yagami
+#-------------------------------------------------------------------------------
+obj=vehicle
+name=Aoimori Mc_703
+copyright=555 / M.Yagami 
+waytype=electrified_track
+freight=Passagiere
+payload=138
+speed=120
+gear=210
+power=500
+cost=3400000
+weight=40
+RunningCost=40
+Sound=2
+intro_year=2006
+intro_month=11
+Constraint[Next][0]=Aoimori T'c_702
+EmptyImage[S]=Aoimori_703.0.0
+EmptyImage[E]=Aoimori_703.0.1
+EmptyImage[SE]=Aoimori_703.0.2
+EmptyImage[SW]=Aoimori_703.0.3
+EmptyImage[N]=Aoimori_703.0.4
+EmptyImage[W]=Aoimori_703.0.5
+EmptyImage[NW]=Aoimori_703.0.6
+EmptyImage[NE]=Aoimori_703.0.7
+-------------------------------------------------------------------------------
+obj=vehicle
+name=Aoimori T'c_702
+copyright=555 / M.Yagami
+waytype=electrified_track
+freight=Passagiere
+payload=132
+speed=120
+cost=3100000
+weight=35
+RunningCost=20
+intro_year=2006
+intro_month=11
+Constraint[Prev][0]=Aoimori Mc_703
+EmptyImage[S]=Aoimori_703.1.0
+EmptyImage[E]=Aoimori_703.1.1
+EmptyImage[SE]=Aoimori_703.1.2
+EmptyImage[SW]=Aoimori_703.1.3
+EmptyImage[N]=Aoimori_703.1.4
+EmptyImage[W]=Aoimori_703.1.5
+EmptyImage[NW]=Aoimori_703.1.6
+EmptyImage[NE]=Aoimori_703.1.7
+-------------------------------------------------------------------------------

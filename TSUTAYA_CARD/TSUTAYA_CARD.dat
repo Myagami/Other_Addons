@@ -1,0 +1,9 @@
+Obj=building
+Name=TSUTAYA_CARD
+Type=com
+Level=1
+Passengers=1
+Dims=1,1,1
+BackImage[0][0][0][0][0][0]=TSUTAYA_CARD.0.0
+copyright=M.Yagami
+

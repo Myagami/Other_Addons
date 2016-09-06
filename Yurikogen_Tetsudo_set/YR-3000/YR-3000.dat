@@ -1,0 +1,89 @@
+#-------------------------------------------------------------------------------
+#　YR-3000.dat
+#　由利高原鉄道 YR-3000
+#
+#　著作権はありません。自由に使ってください。    
+#　CopyLeft 555  /iichiko / masayoshi
+#-------------------------------------------------------------------------------
+obj=vehicle
+name=YR-3000(1st)
+copyright=555 /iichiko / masayoshi 
+waytype=track
+engine_type=diesel
+smoke=Diesel
+freight=Passagiere
+speed=110
+gear=140
+payload=122
+cost=1470000
+weight=39
+power=450
+RunningCost=64
+sound=2
+intro_year=2011
+intro_month=3
+Constraint[Next][0]=JRQ DC_200-1014(HTB)
+EmptyImage[S]=JRQ_DC200(HTB).0.0
+EmptyImage[E]=JRQ_DC200(HTB).0.1
+EmptyImage[SE]=JRQ_DC200(HTB).0.2
+EmptyImage[SW]=JRQ_DC200(HTB).0.3
+EmptyImage[N]=JRQ_DC200(HTB).0.4
+EmptyImage[W]=JRQ_DC200(HTB).0.5
+EmptyImage[NW]=JRQ_DC200(HTB).0.6
+EmptyImage[NE]=JRQ_DC200(HTB).0.7
+-------------------------------------------------------------------------------
+obj=vehicle
+name=JRQ DC_200-1014(2nd)
+copyright=555 /iichiko / masayoshi
+waytype=track
+engine_type=diesel
+smoke=Diesel
+freight=Passagiere
+speed=140
+gear=130
+payload=126
+cost=1470000
+weight=39
+power=450
+RunningCost=64
+sound=2
+intro_year=2011
+intro_month=3
+Constraint[Prev][0]=JRQ DC_200-14(HTB)
+EmptyImage[S]=JRQ_DC200(HTB).1.0
+EmptyImage[E]=JRQ_DC200(HTB).1.1
+EmptyImage[SE]=JRQ_DC200(HTB).1.2
+EmptyImage[SW]=JRQ_DC200(HTB).1.3
+EmptyImage[N]=JRQ_DC200(HTB).1.4
+EmptyImage[W]=JRQ_DC200(HTB).1.5
+EmptyImage[NW]=JRQ_DC200(HTB).1.6
+EmptyImage[NE]=JRQ_DC200(HTB).1.7
+-------------------------------------------------------------------------------
+obj=vehicle
+name=JRQ DC_200-1014(3rd)
+copyright=555 /iichiko / masayoshi
+waytype=track
+engine_type=diesel
+smoke=Diesel
+freight=Passagiere
+speed=140
+gear=130
+payload=126
+cost=1470000
+weight=39
+power=450
+RunningCost=64
+sound=2
+intro_year=2011
+intro_month=3
+Constraint[Prev][0]=JRQ DC_200-14(HTB)
+EmptyImage[S]=JRQ_DC200(HTB).1.0
+EmptyImage[E]=JRQ_DC200(HTB).1.1
+EmptyImage[SE]=JRQ_DC200(HTB).1.2
+EmptyImage[SW]=JRQ_DC200(HTB).1.3
+EmptyImage[N]=JRQ_DC200(HTB).1.4
+EmptyImage[W]=JRQ_DC200(HTB).1.5
+EmptyImage[NW]=JRQ_DC200(HTB).1.6
+EmptyImage[NE]=JRQ_DC200(HTB).1.7
+-------------------------------------------------------------------------------
+

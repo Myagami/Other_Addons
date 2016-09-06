@@ -1,0 +1,15 @@
+Obj=building
+Name=Rail_Station
+Type=extension
+Waytype=track
+enables_pax=1
+Level=2
+NoInfo=1
+Dims=2,1,1
+enables_pax=1
+enables_post=1
+BackImage[0][0][0][0][0]=Rail_Station.0.0
+BackImage[0][0][1][0][0]=Rail_Station.0.1
+icon=> Rail_Station.0.2
+copyright=H.Yagami
+--------------------------------
